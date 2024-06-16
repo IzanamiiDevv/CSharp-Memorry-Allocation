@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp-Memorry-Allocation", "CSharp-Memorry-Allocation.csproj", "{59705502-608F-40C5-B015-5F6DF079E3A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59705502-608F-40C5-B015-5F6DF079E3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59705502-608F-40C5-B015-5F6DF079E3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59705502-608F-40C5-B015-5F6DF079E3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59705502-608F-40C5-B015-5F6DF079E3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2048E314-2C26-4845-9A9C-6EC32C928878}
+	EndGlobalSection
+EndGlobal
